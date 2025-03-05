@@ -71,17 +71,6 @@
             <mxPoint x="370" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HsfMLgi7nBdVFktDC6t-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.974;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="143.0000000000001" y="435" as="sourcePoint" />
-            <mxPoint x="80.00000000000011" y="502" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HsfMLgi7nBdVFktDC6t-27" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0HsfMLgi7nBdVFktDC6t-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.0781" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-1" value="将带有用户名字与自己的队列id的请求发给服务器消息队列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,7 +138,7 @@
             <mxPoint x="370" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZf7cYnkfaRrLRYz9IXb-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.974;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="dZf7cYnkfaRrLRYz9IXb-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="dZf7cYnkfaRrLRYz9IXb-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="143.0000000000001" y="435" as="sourcePoint" />
             <mxPoint x="80.00000000000011" y="502" as="targetPoint" />
