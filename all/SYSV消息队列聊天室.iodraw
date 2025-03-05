@@ -94,7 +94,7 @@
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-3" value="是否注册成功？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dZf7cYnkfaRrLRYz9IXb-4" value="输出注册成功信息与当前在线用户信息至终端，并询问用户是否更新当前在线用户。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dZf7cYnkfaRrLRYz9IXb-4" value="输出注册成功信息与当前在线用户信息至终端，并询问用户是否再次查询当前在线用户。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="370" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-5" value="输出注册失败信息，询问是否再次尝试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yoUGwqFpm_OynOzB-3vF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
