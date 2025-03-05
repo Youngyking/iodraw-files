@@ -80,11 +80,6 @@
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-3" value="是否注册成功？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yoUGwqFpm_OynOzB-3vF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZf7cYnkfaRrLRYz9IXb-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-4" value="输出注册成功信息与当前在线用户信息至终端，并询问用户是否再次查询当前在线用户。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="370" width="130" height="70" as="geometry" />
         </mxCell>
@@ -153,6 +148,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dZf7cYnkfaRrLRYz9IXb-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.0781" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoUGwqFpm_OynOzB-3vF-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.011;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.7784946236559" y="440.2215053763441" as="sourcePoint" />
+            <mxPoint x="227.7784946236559" y="508.2215053763441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoUGwqFpm_OynOzB-3vF-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yoUGwqFpm_OynOzB-3vF-5">
+          <mxGeometry x="-0.0781" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoUGwqFpm_OynOzB-3vF-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.011;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.7784946236559" y="440.2215053763441" as="sourcePoint" />
+            <mxPoint x="227.7784946236559" y="508.2215053763441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoUGwqFpm_OynOzB-3vF-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yoUGwqFpm_OynOzB-3vF-7">
           <mxGeometry x="-0.0781" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
