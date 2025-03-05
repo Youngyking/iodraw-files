@@ -82,7 +82,7 @@
         </mxCell>
         <mxCell id="yoUGwqFpm_OynOzB-3vF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dZf7cYnkfaRrLRYz9IXb-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="470" as="targetPoint" />
+            <mxPoint x="185" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-4" value="输出注册成功信息与当前在线用户信息至终端，并询问用户是否再次查询当前在线用户。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -155,18 +155,6 @@
         <mxCell id="dZf7cYnkfaRrLRYz9IXb-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dZf7cYnkfaRrLRYz9IXb-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0781" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yoUGwqFpm_OynOzB-3vF-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="450" as="sourcePoint" />
-            <mxPoint x="190" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yoUGwqFpm_OynOzB-3vF-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="450" as="sourcePoint" />
-            <mxPoint x="190" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
